@@ -1,6 +1,6 @@
 # 🩺 Impact of Handwashing on Maternal Mortality: A Data Analysis Study
 
-## 📖 Project Overview
+## Project Overview
 
 This project analyzes the historical work of Dr. Ignaz Semmelweis, who investigated the high maternal mortality rates in maternity clinics during the 1840s. Using data analysis techniques in Python, this study examines the relationship between handwashing practices and maternal deaths.
 
@@ -8,7 +8,7 @@ The project demonstrates how data-driven decision-making and public health inter
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze maternal mortality trends across different clinics.
 * Compare mortality rates before and after the introduction of handwashing.
@@ -18,7 +18,7 @@ The project demonstrates how data-driven decision-making and public health inter
 
 ---
 
-## 📂 Datasets Used
+## Datasets Used
 
 ### 1. Yearly Deaths by Clinic
 
@@ -30,7 +30,7 @@ Contains monthly birth and death records used to evaluate the impact of handwash
 
 ---
 
-## 🛠️ Tools and Technologies
+## Tools and Technologies
 
 * Python
 * Pandas
@@ -41,7 +41,7 @@ Contains monthly birth and death records used to evaluate the impact of handwash
 
 ---
 
-## 🔍 Analysis Workflow
+## Analysis Workflow
 
 ### Data Understanding
 
@@ -79,7 +79,7 @@ Contains monthly birth and death records used to evaluate the impact of handwash
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 * Clinic 1 recorded higher maternal mortality rates than Clinic 2.
 * Significant differences existed between clinic outcomes.
@@ -89,7 +89,7 @@ Contains monthly birth and death records used to evaluate the impact of handwash
 
 ---
 
-## 📈 Visualizations Included
+## Visualizations Included
 
 * Births by Clinic
 * Deaths by Clinic
@@ -100,7 +100,7 @@ Contains monthly birth and death records used to evaluate the impact of handwash
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 Through this project, the following concepts were applied:
 
@@ -115,7 +115,7 @@ Through this project, the following concepts were applied:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 Impact-of-Handwashing-on-Maternal-Mortality/
 
@@ -143,7 +143,7 @@ Impact-of-Handwashing-on-Maternal-Mortality/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Aryan Prajapati
 
