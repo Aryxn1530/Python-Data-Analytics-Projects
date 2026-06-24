@@ -18,10 +18,12 @@ I am an aspiring Data Analyst and Data Science enthusiast passionate about trans
 
 ## 📂 Projects
 
-| Project                   | Description                                                                                                                             | Skills                                   |
-| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| 💎 Diamonds Data Analysis | Exploratory Data Analysis of the Diamonds dataset including data cleaning, visualization, price analysis, and business insights.        | EDA, Data Cleaning, Visualization        |
-| 🍷 Wine Quality Analysis  | Analysis of Red Wine Quality dataset including univariate, bivariate, multivariate analysis, correlation study, and quality assessment. | EDA, Correlation Analysis, Visualization |
+| Project                                        | Description                                                                                                                                                                                     | Skills                                                                              |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 💎 Diamonds Data Analysis                      | Exploratory Data Analysis of the Diamonds dataset including data cleaning, visualization, price analysis, and business insights.                                                                | EDA, Data Cleaning, Visualization                                                   |
+| 🍷 Wine Quality Analysis                       | Analysis of Red Wine Quality dataset including univariate, bivariate, multivariate analysis, correlation study, and quality assessment.                                                         | EDA, Correlation Analysis, Visualization                                            |
+| 🩺 Impact of Handwashing on Maternal Mortality | Historical healthcare data analysis inspired by Dr. Ignaz Semmelweis. Investigates maternal mortality rates before and after the introduction of handwashing using yearly and monthly datasets. | Healthcare Analytics, Time Series Analysis, Data Storytelling, Statistical Analysis |
+
 
 ## 📈 Key Areas Covered
 
@@ -42,25 +44,12 @@ Python-Data-Analytics-Projects/
 
 ├── Diamonds-Data-Analysis/
 
-│   ├── Diamonds_Data_Analysis.ipynb
-
-│   ├── diamonds.csv
-
-│   └── README.md
-
-│
-
 ├── Wine-Quality-Analysis/
 
-│   ├── Wine_Quality_Analysis.ipynb
-
-│   ├── winequality-red.csv
-
-│   └── README.md
-
-│
+├── Impact-of-Handwashing-on-Maternal-Mortality/
 
 └── README.md
+
 
 ## 🎯 Objectives
 
