@@ -1,12 +1,12 @@
-# 📊 Python Data Analytics Projects
+# Python Data Analytics Projects
 
 Welcome to my Data Analytics Portfolio repository. This repository contains a collection of Exploratory Data Analysis (EDA), Data Cleaning, Visualization, and Business Insight projects developed using Python and real-world datasets.
 
-## 👨‍💻 About Me
+## About Me
 
 I am an aspiring Data Analyst and Data Science enthusiast passionate about transforming raw data into meaningful insights. This repository showcases my practical work in Python-based data analysis using industry-standard tools and libraries.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * Python
 * Pandas
@@ -16,7 +16,7 @@ I am an aspiring Data Analyst and Data Science enthusiast passionate about trans
 * Jupyter Notebook
 * Git & GitHub
 
-## 📂 Projects
+## Projects
 
 | Project                                        | Description                                                                                                                                                                                     | Skills                                                                              |
 | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -25,7 +25,7 @@ I am an aspiring Data Analyst and Data Science enthusiast passionate about trans
 | 🩺 Impact of Handwashing on Maternal Mortality | Historical healthcare data analysis inspired by Dr. Ignaz Semmelweis. Investigates maternal mortality rates before and after the introduction of handwashing using yearly and monthly datasets. | Healthcare Analytics, Time Series Analysis, Data Storytelling, Statistical Analysis |
 
 
-## 📈 Key Areas Covered
+## Key Areas Covered
 
 * Data Cleaning
 * Missing Value Analysis
@@ -38,7 +38,7 @@ I am an aspiring Data Analyst and Data Science enthusiast passionate about trans
 * Correlation Analysis
 * Business Insight Generation
 
-## 📁 Repository Structure
+## Repository Structure
 
 Python-Data-Analytics-Projects/
 
@@ -51,13 +51,13 @@ Python-Data-Analytics-Projects/
 └── README.md
 
 
-## 🎯 Objectives
+## Objectives
 
 * Apply Python for real-world data analysis.
 * Develop practical EDA skills.
 * Generate actionable business insights from data.
 * Build a professional Data Analytics portfolio.
 
-## 📬 Contact
+## Contact
 
 **Aryan Prajapati**
